@@ -1,9 +1,9 @@
 h1, h2 {
-    color: red;
+    color: rgba(255, 0, 0, 0.587);
   }
   
   p {
-    color: bisque;
+    color: rgba(196, 255, 205, 0.506);
   }
   
   ul {
@@ -20,7 +20,7 @@ h1, h2 {
   }
   
   h1, strong {
-    color: burlywood;
+    color: rgb(46, 34, 4);
   }
   
   em {
