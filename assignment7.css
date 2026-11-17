@@ -1,17 +1,17 @@
 h1, h2 {
-    color: green;
+    color: red;
   }
   
   p {
-    color: gray;
+    color: bisque;
   }
   
   ul {
-    border: 2px solid orange;
+    border: 2px solid rgba(255, 174, 0, 0.83);
   }
   
   ol {
-    border: 2px solid purple;
+    border: 2px solid brown;
   }
   
   ol, ul {
